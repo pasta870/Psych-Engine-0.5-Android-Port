@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="banner.png">
+        <SubTexture name="banner10000" x="0" y="0" width="164" height="604" frameX="0" frameY="0" frameWidth="164" frameHeight="604" />
+        <SubTexture name="banner20000" x="164" y="0" width="164" height="604" frameX="0" frameY="0" frameWidth="164" frameHeight="604" />
+        <SubTexture name="banner30000" x="328" y="0" width="164" height="604" frameX="0" frameY="0" frameWidth="164" frameHeight="604" />
+        <SubTexture name="banner40000" x="492" y="0" width="164" height="604" frameX="0" frameY="0" frameWidth="164" frameHeight="604" />
+        <SubTexture name="banner50000" x="0" y="604" width="164" height="604" frameX="0" frameY="0" frameWidth="164" frameHeight="604" />
+        <SubTexture name="banner60000" x="164" y="604" width="164" height="604" frameX="0" frameY="0" frameWidth="164" frameHeight="604" />
+        <SubTexture name="banner70000" x="328" y="604" width="164" height="604" frameX="0" frameY="0" frameWidth="164" frameHeight="604" />
+</TextureAtlas>

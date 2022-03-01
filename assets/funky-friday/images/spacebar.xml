@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="spacebar.png">
+        <SubTexture name="spacebar press0000" x="0" y="0" width="1450" height="705" frameX="0" frameY="0" frameWidth="1450" frameHeight="705" />
+        <SubTexture name="spacebar press0001" x="1450" y="0" width="1450" height="705" frameX="0" frameY="0" frameWidth="1450" frameHeight="705" />
+        <SubTexture name="spacebar press0002" x="2900" y="0" width="1450" height="705" frameX="0" frameY="0" frameWidth="1450" frameHeight="705" />
+        <SubTexture name="spacebar press0003" x="4350" y="0" width="1450" height="705" frameX="0" frameY="0" frameWidth="1450" frameHeight="705" />
+</TextureAtlas>

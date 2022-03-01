@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="duckies.png">
+        <SubTexture name="duck1-appear0000" x="0" y="0" width="204" height="204" frameX="0" frameY="0" frameWidth="204" frameHeight="204" />
+        <SubTexture name="duck1-main0000" x="204" y="0" width="260" height="260" frameX="0" frameY="0" frameWidth="260" frameHeight="260" />
+        <SubTexture name="duck2-appear0000" x="464" y="0" width="204" height="204" frameX="0" frameY="0" frameWidth="204" frameHeight="204" />
+        <SubTexture name="duck2-main0000" x="668" y="0" width="260" height="260" frameX="0" frameY="0" frameWidth="260" frameHeight="260" />
+        <SubTexture name="duck3-appear0000" x="0" y="260" width="204" height="204" frameX="0" frameY="0" frameWidth="204" frameHeight="204" />
+        <SubTexture name="duck3-main0000" x="204" y="260" width="260" height="260" frameX="0" frameY="0" frameWidth="260" frameHeight="260" />
+        <SubTexture name="duck4-appear0000" x="464" y="260" width="204" height="204" frameX="0" frameY="0" frameWidth="204" frameHeight="204" />
+        <SubTexture name="duck4-main0000" x="668" y="260" width="260" height="260" frameX="0" frameY="0" frameWidth="260" frameHeight="260" />
+</TextureAtlas>
